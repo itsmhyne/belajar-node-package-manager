@@ -1,0 +1,24 @@
+{
+  "name": "belajar-node-package-manager",
+  "version": "1.0.0",
+  "description": "belajar node js lectured by programmer zaman now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmhyne/belajar-node-package-manager.git"
+  },
+  "keywords": [
+    "mhandany",
+    "itsmhyne"
+  ],
+  "author": "mhamdany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmhyne/belajar-node-package-manager/issues"
+  },
+  "homepage": "https://github.com/itsmhyne/belajar-node-package-manager#readme",
+  "type": "module"
+}
